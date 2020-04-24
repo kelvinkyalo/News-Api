@@ -6,7 +6,7 @@
 
 # Description
 
-* 
+* an application  created using python  to enable veiwing of current news articles from different news editors
 
 # Technologies used 
 
